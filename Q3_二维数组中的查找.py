@@ -153,9 +153,10 @@ def two_dimenstion_array_search_2(array, num):
 '''
 
 
+# 书上的思想， 自己实现的代码
 def two_dimenstion_array_search_t(array, num):
     print "\n"
-    print len(array[0])
+    # print len(array[0])
     if array is None or type(array[0]) is not numpy.ndarray:
         print "The array is illeagal"
         return False
@@ -178,7 +179,31 @@ def two_dimenstion_array_search_t(array, num):
             two_dimenstion_array_search_t(a, num)
 
 
+# 书上的代码
+def two_dimenstion_array_search_b(array, num):
+    if array is None or type(array[0]) is not numpy.ndarray:
+        print "The array is illeagal"
+        return False
+    elif not isinstance(num, int):
+        print "the number is illeagal"
+        return False
+    else:
+        row = len(array)
+        col = len(array[0])
+        i = 0
+        j = col-1
+        while i < row and j >= 0:
+            if array[i][j] == num:
+                print 'found it'
+                return True
+            elif array[i][j] < num:
+                i += 1
+            else:
+                j -= 1
+        return False
+
+
 arr = np.array([[1, 2, 8, 9], [2, 4, 9, 12], [4, 7, 10, 13], [6, 8, 11, 15]])
 n = 4
 # arr = np.array([[1], [2], [3], [4]])
-f = two_dimenstion_array_search_t(arr, n)
+f = two_dimenstion_array_search_b(arr, n)
