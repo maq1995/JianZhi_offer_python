@@ -25,6 +25,7 @@
 '''
 
 
+# ！！！未实现功能！！！
 def fill_blank(s):
     length = len(s) - 1
     count = 0
@@ -78,5 +79,18 @@ def fill_blank_1(s):
     return s.replace(' ', '%20')
 
 
-string = 'We are happy'
+'''
+添加测试用例：
+包括：
+    1.输入的字符串包括空格：空格位于字符串最前面、最后面、中间（字符串中间有多个连续空格）
+    2.输入的字符串没有空格
+    3.特殊输入测试：字符串是NULL， 字符串只有一个空格字符、字符串只有个多个连续空格
+'''
+
+# string = ' We   are happy '
+# string = 'ihavenoblank'
+# string = ' '  # 一个空格
+# string = '   '  # 3个空格
+string = ''
 print fill_blank_2(string)
+
