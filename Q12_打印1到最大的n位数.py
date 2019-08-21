@@ -114,4 +114,4 @@ def print_number(number):
             break
 
 
-print_1_max_of_n_digits_dg(3)
+print_1_max_of_n_digits_dg(2)
