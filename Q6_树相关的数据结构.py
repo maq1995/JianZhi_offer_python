@@ -28,8 +28,8 @@
 def preOrder_digui(t):
     if t is not None:
         print t.data
-        print preOrder_digui(t.left)
-        print preOrder_digui(t.right)
+        preOrder_digui(t.left)
+        preOrder_digui(t.right)
         
 #### 前序遍历 循环版本（非递归）
 # 对于任意结点node，首先访问之（输出其值），然后判断其左子树是否为空，不空时，重复上面的步骤，直到其为空，

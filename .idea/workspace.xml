@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="370642d8-766a-4408-bb9c-8dcc0f8a2f4d" name="Default Changelist" comment="" />
+    <list default="true" id="370642d8-766a-4408-bb9c-8dcc0f8a2f4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q6_树相关的数据结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q6_树相关的数据结构.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q18_树的子结构.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q19_二叉树的镜像.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="3193">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q20_顺时针打印矩阵.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -28,6 +40,45 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>weights8</find>
+      <find>8b</find>
+      <find>9b</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>weights7</replace>
+      <replace>8w</replace>
+      <replace>biases7</replace>
+      <replace>8b</replace>
+      <replace>weights8</replace>
+      <replace>biases8</replace>
+      <replace>9w</replace>
+      <replace>9b</replace>
+      <replace>weights9</replace>
+      <replace>biases9</replace>
+      <replace>10w</replace>
+      <replace>10b</replace>
+      <replace>weights10</replace>
+      <replace>biases10</replace>
+      <replace>11w</replace>
+      <replace>11b</replace>
+      <replace>weights11</replace>
+      <replace>biases11</replace>
+      <replace>12w</replace>
+      <replace>12b.</replace>
+      <replace>weights12</replace>
+      <replace>13w</replace>
+      <replace>biases12</replace>
+      <replace>13b</replace>
+      <replace>weights13</replace>
+      <replace>biases13</replace>
+      <replace>14w</replace>
+      <replace>14b</replace>
+      <replace>weights14</replace>
+      <replace>biases14</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -40,7 +91,6 @@
         <option value="$PROJECT_DIR$/Q4_替换空格.py" />
         <option value="$PROJECT_DIR$/Q4_相关题目.py" />
         <option value="$PROJECT_DIR$/Q5_从尾到头打印链表.py" />
-        <option value="$PROJECT_DIR$/Q6_树相关的数据结构.py" />
         <option value="$PROJECT_DIR$/Q6_重建二叉树.py" />
         <option value="$PROJECT_DIR$/Q7_用两个栈实现队列.py" />
         <option value="$PROJECT_DIR$/Q7_用两个队列实现栈.py" />
@@ -63,6 +113,10 @@
         <option value="$PROJECT_DIR$/Q16_反转链表.py" />
         <option value="$PROJECT_DIR$/Q17_合并两个排序的链表.py" />
         <option value="$PROJECT_DIR$/Q18_树的子结构.py" />
+        <option value="$PROJECT_DIR$/Q6_树相关的数据结构.py" />
+        <option value="$PROJECT_DIR$/Q19_二叉树的镜像.py" />
+        <option value="$PROJECT_DIR$/tttttttt.py" />
+        <option value="$PROJECT_DIR$/Q20_顺时针打印矩阵.py" />
       </list>
     </option>
   </component>
@@ -125,49 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q18_树的子结构">
-    <configuration name="Q15_相关题目" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JianZhi_offer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q15_相关题目.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q15_链表中倒数第k个结点" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JianZhi_offer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q15_链表中倒数第k个结点.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Q20_顺时针打印矩阵">
     <configuration name="Q16_反转链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q4_相关题目" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q19_二叉树的镜像" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,7 +255,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q4_相关题目.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q19_二叉树的镜像.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q7_用两个队列实现栈" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q20_顺时针打印矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +276,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q7_用两个队列实现栈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q20_顺时针打印矩阵.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q20_顺时针打印矩阵" />
+        <item itemvalue="Python.Q19_二叉树的镜像" />
         <item itemvalue="Python.Q18_树的子结构" />
         <item itemvalue="Python.Q17_合并两个排序的链表" />
         <item itemvalue="Python.Q16_反转链表" />
-        <item itemvalue="Python.Q15_相关题目" />
-        <item itemvalue="Python.Q15_链表中倒数第k个结点" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +309,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -305,8 +317,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994726" weight="0.31632653" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40510204" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994726" visible="true" weight="0.31632653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40510204" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -427,13 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5580">
           <caret line="180" column="22" selection-start-line="180" selection-start-column="22" selection-end-line="180" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q6_树相关的数据结构.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="31" column="37" selection-start-line="26" selection-end-line="31" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -586,8 +591,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q18_树的子结构.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="456">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q6_树相关的数据结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q19_二叉树的镜像.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3193">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttttttt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="97" column="27" selection-start-line="90" selection-start-column="12" selection-end-line="97" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q20_顺时针打印矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
         </state>
       </provider>
     </entry>
