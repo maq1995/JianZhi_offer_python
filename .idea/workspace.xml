@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="370642d8-766a-4408-bb9c-8dcc0f8a2f4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6_树相关的数据结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q6_树相关的数据结构.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q19_二叉树的镜像.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3193">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q20_顺时针打印矩阵.py">
+        <entry file="file://$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+            <state relative-caret-position="480">
+              <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -45,9 +35,9 @@
       <find>weights8</find>
       <find>8b</find>
       <find>9b</find>
+      <find>14</find>
     </findStrings>
     <replaceStrings>
-      <replace>weights7</replace>
       <replace>8w</replace>
       <replace>biases7</replace>
       <replace>8b</replace>
@@ -77,6 +67,7 @@
       <replace>14b</replace>
       <replace>weights14</replace>
       <replace>biases14</replace>
+      <replace>8</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -117,6 +108,13 @@
         <option value="$PROJECT_DIR$/Q19_二叉树的镜像.py" />
         <option value="$PROJECT_DIR$/tttttttt.py" />
         <option value="$PROJECT_DIR$/Q20_顺时针打印矩阵.py" />
+        <option value="$PROJECT_DIR$/ttt.py" />
+        <option value="$PROJECT_DIR$/Q20_包含min函数的栈.py" />
+        <option value="$PROJECT_DIR$/Q22_栈的压入和弹出序列.py" />
+        <option value="$PROJECT_DIR$/Q23_扩展题目.py" />
+        <option value="$PROJECT_DIR$/Q23_从上往下打印二叉树.py" />
+        <option value="$PROJECT_DIR$/Q24_二叉搜索树的后序遍历序列.py" />
+        <option value="$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py" />
       </list>
     </option>
   </component>
@@ -179,8 +177,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q20_顺时针打印矩阵">
-    <configuration name="Q16_反转链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Q25_二叉树中和为某一值的路径">
+    <configuration name="Q20_包含min函数的栈" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +190,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q16_反转链表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q21_包含min函数的栈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q17_合并两个排序的链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q22_栈的压入和弹出序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q17_合并两个排序的链表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q22_栈的压入和弹出序列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q18_树的子结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q23_从上往下打印二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q18_树的子结构.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q23_从上往下打印二叉树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q19_二叉树的镜像" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q24_二叉搜索树的后序遍历序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q19_二叉树的镜像.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q24_二叉搜索树的后序遍历序列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q20_顺时针打印矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q25_二叉树中和为某一值的路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q20_顺时针打印矩阵.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q20_顺时针打印矩阵" />
-        <item itemvalue="Python.Q19_二叉树的镜像" />
-        <item itemvalue="Python.Q18_树的子结构" />
-        <item itemvalue="Python.Q17_合并两个排序的链表" />
-        <item itemvalue="Python.Q16_反转链表" />
+        <item itemvalue="Python.Q25_二叉树中和为某一值的路径" />
+        <item itemvalue="Python.Q24_二叉搜索树的后序遍历序列" />
+        <item itemvalue="Python.Q23_从上往下打印二叉树" />
+        <item itemvalue="Python.Q22_栈的压入和弹出序列" />
+        <item itemvalue="Python.Q20_包含min函数的栈" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +316,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994726" visible="true" weight="0.31632653" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40510204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26020408" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -377,6 +375,21 @@
           <url>file://$PROJECT_DIR$/Q14_调整数组顺序使奇数位于偶数前面.py</url>
           <line>60</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Q22_栈的压入和弹出序列.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Q24_二叉搜索树的后序遍历序列.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Q24_二叉搜索树的后序遍历序列.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -596,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q6_树相关的数据结构.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-653">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q19_二叉树的镜像.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3193">
@@ -610,17 +616,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tttttttt.py">
+    <entry file="file://$PROJECT_DIR$/tttttttt.py" />
+    <entry file="file://$PROJECT_DIR$/Q20_顺时针打印矩阵.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="97" column="27" selection-start-line="90" selection-start-column="12" selection-end-line="97" selection-end-column="27" />
+        <state relative-caret-position="332">
+          <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q20_顺时针打印矩阵.py">
+    <entry file="file://$PROJECT_DIR$/ttt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+        <state relative-caret-position="341">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q21_包含min函数的栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="74" column="25" lean-forward="true" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q22_栈的压入和弹出序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q23_扩展题目.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="24" lean-forward="true" selection-start-line="8" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q23_从上往下打印二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q6_树相关的数据结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2728">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q24_二叉搜索树的后序遍历序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
         </state>
       </provider>
     </entry>
