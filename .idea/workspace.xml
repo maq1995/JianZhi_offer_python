@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q28_字符串的排列.py">
+        <entry file="file://$PROJECT_DIR$/Q33_把数组排成最小的数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
-              <caret line="88" column="11" lean-forward="true" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+            <state relative-caret-position="463">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -34,14 +34,11 @@
       <find>8b</find>
       <find>9b</find>
       <find>14</find>
+      <find>8</find>
+      <find>biases_cv</find>
+      <find>3b</find>
     </findStrings>
     <replaceStrings>
-      <replace>8w</replace>
-      <replace>biases7</replace>
-      <replace>8b</replace>
-      <replace>weights8</replace>
-      <replace>biases8</replace>
-      <replace>9w</replace>
       <replace>9b</replace>
       <replace>weights9</replace>
       <replace>biases9</replace>
@@ -66,6 +63,12 @@
       <replace>weights14</replace>
       <replace>biases14</replace>
       <replace>8</replace>
+      <replace>3wc</replace>
+      <replace>3bc</replace>
+      <replace>3</replace>
+      <replace>5wc</replace>
+      <replace>5w</replace>
+      <replace>5b</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -117,7 +120,12 @@
         <option value="$PROJECT_DIR$/Q28_字符串的排列.py" />
         <option value="$PROJECT_DIR$/ttttt.py" />
         <option value="$PROJECT_DIR$/tt.py" />
+        <option value="$PROJECT_DIR$/Q29_数组中出现次数超过一半的数字.py" />
+        <option value="$PROJECT_DIR$/Q30_最小的k个数.py" />
+        <option value="$PROJECT_DIR$/Q31_连续子数组的最大和.py" />
         <option value="$PROJECT_DIR$/ttt.py" />
+        <option value="$PROJECT_DIR$/Q32_从1到n整数中1出现的次数.py" />
+        <option value="$PROJECT_DIR$/Q33_把数组排成最小的数.py" />
       </list>
     </option>
   </component>
@@ -180,8 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ttt">
-    <configuration name="Q27_二叉搜索树与双向链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Q33_把数组排成最小的数">
+    <configuration name="Q30_最小的k个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q27_二叉搜索树与双向链表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q30_最小的k个数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q28_字符串的排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q31_连续子数组的最大和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q28_字符串的排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q31_连续子数组的最大和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q32_从1到n整数中1出现的次数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +243,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q32_从1到n整数中1出现的次数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q33_把数组排成最小的数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JianZhi_offer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q33_把数组排成最小的数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,34 +294,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ttttt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JianZhi_offer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ttttt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q33_把数组排成最小的数" />
         <item itemvalue="Python.ttt" />
-        <item itemvalue="Python.ttttt" />
-        <item itemvalue="Python.tt" />
-        <item itemvalue="Python.Q28_字符串的排列" />
-        <item itemvalue="Python.Q27_二叉搜索树与双向链表" />
+        <item itemvalue="Python.Q32_从1到n整数中1出现的次数" />
+        <item itemvalue="Python.Q31_连续子数组的最大和" />
+        <item itemvalue="Python.Q30_最小的k个数" />
       </list>
     </recent_temporary>
   </component>
@@ -313,20 +321,20 @@
     <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994726" weight="0.31632653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49894515" visible="true" weight="0.22244897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39591837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052744" side_tool="true" weight="0.25918368" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4994726" weight="0.25918368" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010548" side_tool="true" weight="0.31632653" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4994726" weight="0.41938776" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -403,14 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="602" column="38" selection-start-line="602" selection-start-column="7" selection-end-line="602" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/shape_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -436,16 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="4577" selection-start-line="4577" selection-end-line="4577" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q3_二维数组中的查找.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6386">
-          <caret line="207" column="38" selection-start-line="207" selection-start-column="38" selection-end-line="207" selection-end-column="38" />
-          <folding>
-            <element signature="e#234#252#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,13 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q6_树相关的数据结构.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2728">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q24_二叉搜索树的后序遍历序列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -716,17 +699,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttt.py">
+    <entry file="file://$PROJECT_DIR$/Q28_字符串的排列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="711">
+          <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q28_字符串的排列.py">
+    <entry file="file://$PROJECT_DIR$/Q3_二维数组中的查找.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="88" column="11" lean-forward="true" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        <state relative-caret-position="-5565">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#234#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q29_数组中出现次数超过一半的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1108">
+          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q6_树相关的数据结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="247" lean-forward="true" selection-start-line="227" selection-end-line="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q30_最小的k个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q31_连续子数组的最大和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ttt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="86" column="7" lean-forward="true" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q32_从1到n整数中1出现的次数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q33_把数组排成最小的数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
