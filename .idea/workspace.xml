@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="370642d8-766a-4408-bb9c-8dcc0f8a2f4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="370642d8-766a-4408-bb9c-8dcc0f8a2f4d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,28 +11,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q40_数组中只出现一次的数字.py">
+        <entry file="file://$PROJECT_DIR$/Q49_把字符串转换成整数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q41_和为s的两个数字VS和为s的连续正数序列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+            <state relative-caret-position="1240">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q42_翻转单词顺序VS左旋转字符串.py">
+        <entry file="file://$PROJECT_DIR$/Q50_树中两个结点的最低公共祖先.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+            <state relative-caret-position="342">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q37_两个链表的第一个公共结点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-62">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -100,13 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Q8_相关内容.py" />
-        <option value="$PROJECT_DIR$/Q8_旋转数组的最小数字.py" />
-        <option value="$PROJECT_DIR$/Q9_斐波那契数列.py" />
-        <option value="$PROJECT_DIR$/Q9_青蛙跳台阶.py" />
-        <option value="$PROJECT_DIR$/venv/Q9_相关题目_矩形覆盖.py" />
-        <option value="$PROJECT_DIR$/Q10_26进制.py" />
-        <option value="$PROJECT_DIR$/Q10_二进制中1的个数.py" />
         <option value="$PROJECT_DIR$/Q10_相关题目.py" />
         <option value="$PROJECT_DIR$/Q11_数值的整数次方.py" />
         <option value="$PROJECT_DIR$/Q12_打印1大最大的n位数.py" />
@@ -151,6 +151,13 @@
         <option value="$PROJECT_DIR$/tttt.py" />
         <option value="$PROJECT_DIR$/Q41_和为s的两个数字VS和为s的连续正数序列.py" />
         <option value="$PROJECT_DIR$/Q42_翻转单词顺序VS左旋转字符串.py" />
+        <option value="$PROJECT_DIR$/Q43_n个骰子的点数.py" />
+        <option value="$PROJECT_DIR$/Q44_扑克牌的顺子.py" />
+        <option value="$PROJECT_DIR$/Q45_圆圈中最后剩下的数字.py" />
+        <option value="$PROJECT_DIR$/Q46_求1+2+...+n.py" />
+        <option value="$PROJECT_DIR$/Q47_不用加减乘除做加法.py" />
+        <option value="$PROJECT_DIR$/Q49_把字符串转换成整数.py" />
+        <option value="$PROJECT_DIR$/Q50_树中两个结点的最低公共祖先.py" />
       </list>
     </option>
   </component>
@@ -213,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q42_翻转单词顺序VS左旋转字符串">
-    <configuration name="Q38_数字在排序数组中出现的次数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Q50_树中两个结点的最低公共祖先">
+    <configuration name="Q45_圆圈中最后剩下的数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q38_数字在排序数组中出现的次数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q45_圆圈中最后剩下的数字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q39_二叉树的深度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q46_求1+2+...+n" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,7 +254,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q39_二叉树的深度.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q46_求1+2+...+n.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q40_数组中只出现一次的数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q47_不用加减乘除做加法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +275,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q40_数组中只出现一次的数字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q47_不用加减乘除做加法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q41_和为s的两个数字VS和为s的连续正数序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q49_把字符串转换成整数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +296,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q41_和为s的两个数字VS和为s的连续正数序列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q49_把字符串转换成整数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q42_翻转单词顺序VS左旋转字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q50_树中两个结点的最低公共祖先" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JianZhi_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,7 +317,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q42_翻转单词顺序VS左旋转字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q50_树中两个结点的最低公共祖先.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q42_翻转单词顺序VS左旋转字符串" />
-        <item itemvalue="Python.Q41_和为s的两个数字VS和为s的连续正数序列" />
-        <item itemvalue="Python.Q40_数组中只出现一次的数字" />
-        <item itemvalue="Python.Q39_二叉树的深度" />
-        <item itemvalue="Python.Q38_数字在排序数组中出现的次数" />
+        <item itemvalue="Python.Q50_树中两个结点的最低公共祖先" />
+        <item itemvalue="Python.Q49_把字符串转换成整数" />
+        <item itemvalue="Python.Q47_不用加减乘除做加法" />
+        <item itemvalue="Python.Q46_求1+2+...+n" />
+        <item itemvalue="Python.Q45_圆圈中最后剩下的数字" />
       </list>
     </recent_temporary>
   </component>
@@ -355,12 +362,12 @@
     <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49894515" visible="true" weight="0.22244897" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49894515" visible="true" weight="0.3622449" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39591837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,62 +457,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Q6_重建二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q4_替换空格.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q9_相关题目_矩形覆盖.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q9_青蛙跳台阶.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q9_斐波那契数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q10_26进制.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q10_二进制中1的个数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="111" column="24" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q10_相关题目.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q11_数值的整数次方.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -713,13 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q37_两个链表的第一个公共结点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q34_丑数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="649">
@@ -731,13 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -780,6 +717,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
           <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q43_n个骰子的点数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="92" column="18" lean-forward="true" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q44_扑克牌的顺子.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1705">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q45_圆圈中最后剩下的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q46_求1+2+...+n.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q47_不用加减乘除做加法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/__builtin__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="986" column="35" lean-forward="true" selection-start-line="986" selection-start-column="35" selection-end-line="986" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q49_把字符串转换成整数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q25_二叉树中和为某一值的路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q37_两个链表的第一个公共结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q50_树中两个结点的最低公共祖先.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
         </state>
       </provider>
     </entry>
