@@ -85,7 +85,7 @@ def get_1_nums(nums):  # nums:是一个数
     if high == 1:
         high_count = low + 1
     else:
-        high_count = 10**(digit-1)
+        high_count = 10**(digit-1)  # 1xxx- 1999..之间最高位上1出现的次数
         high_count += get_nums_of_1_in_right_weishu(digit-1) * (high-1)
 
     low_count = get_1_nums(low)
@@ -95,4 +95,28 @@ def get_1_nums(nums):  # nums:是一个数
 
 n = 101
 print get_1_nums(n)
+
+"""
+解法2：更简单易懂：https://blog.csdn.net/maqian5/article/details/102517534
+
+"""
+def NumberOf1Between1AndN_Solution(n):
+    if n <= 0:
+        return 0
+
+    round = n
+    count = 0
+    base = 1
+    while round != 0:
+        weight = round % 10
+        round = round / 10
+        count += round*base
+        if weight > 1:
+            count += base
+        elif weight == 1:
+            count += (n % base) + 1
+        base = 10 * base
+
+
+    return count
 

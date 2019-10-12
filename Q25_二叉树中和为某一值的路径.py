@@ -65,6 +65,37 @@ def find_path(root, expectNumber):
     return ret
 
 
+# node1 = TreeNode(10)
+# node2 = TreeNode(5)
+# node3 = TreeNode(12)
+# node4 = TreeNode(4)
+# node5 = TreeNode(7)
+# node1.left = node2
+# node1.right = node3
+# node2.left = node4
+# node2.right = node5
+#
+# print find_path(node1, 19)
+
+"""
+解法2：
+"""
+
+
+def FindPath(root, expectNumber):
+    if not root:
+        return []
+    tmp = []
+    if not root.left and not root.right and root.data == expectNumber:
+        return [[root.data]]
+    else:
+        left = FindPath(root.left, expectNumber - root.data)
+        right = FindPath(root.right, expectNumber - root.data)
+        for item in left + right:
+            tmp.append([root.data] + item)
+    return tmp
+
+
 node1 = TreeNode(10)
 node2 = TreeNode(5)
 node3 = TreeNode(12)
@@ -75,9 +106,4 @@ node1.right = node3
 node2.left = node4
 node2.right = node5
 
-print find_path(node1, 19)
-
-
-
-
-
+print FindPath(node1, 19)

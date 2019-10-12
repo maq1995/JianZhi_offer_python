@@ -56,6 +56,7 @@ def Permutation(ss):
             pStr.append(tt)
     return pStr
 
+
 # 简化版本
 def perm(s):
     if len(s) <= 1:

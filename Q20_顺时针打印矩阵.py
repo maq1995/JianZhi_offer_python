@@ -89,3 +89,38 @@ rows = len(matrix)
 columns = len(matrix[0]) if matrix else 0
 printMatrixClockwisely(matrix, columns, rows)
 
+"""
+解法2：
+
+"""
+
+
+def printMatrix(matrix):
+    # write code here
+    rows = len(matrix)
+    columes = len(matrix[0])
+    circle = (min(rows, columes)-1) // 2 + 1
+    result = []
+    for i in range(circle):
+        # 从左向右打印
+        j = i
+        while j < columes - i:
+            result.append(matrix[i][j])
+            j += 1
+        # 从上向下打印
+        k = i + 1
+        while k < rows - i:
+            result.append(matrix[k][j-1])
+            k += 1
+        # 从右向左打印
+        m = columes - i - 2
+        while m >= i and rows-i-1 != i:
+            result.append(matrix[rows - i - 1][m])
+            m -= 1
+        # 从下向上打印
+        n = rows - i - 2
+        while n > i and columes - i - 1 != i:
+            result.append(matrix[n][i])
+            n -= 1
+
+    return result
